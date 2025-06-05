@@ -1149,7 +1149,7 @@ $lang['invoice_item_long_description'] = 'Long Description';
 # Customers
 $lang['clients_list_phone']                = 'Phone';
 $lang['client_expenses_tab']               = 'Expenses';
-$lang['customers_summary']                 = 'Customers Summary';
+$lang['customers_summary']                 = 'Customers Summarys';
 $lang['customers_summary_active']          = 'Active Contacts';
 $lang['customers_summary_inactive']        = 'Inactive Contacts';
 $lang['customers_summary_logged_in_today'] = 'Contacts Logged In Today';
