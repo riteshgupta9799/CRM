@@ -4,7 +4,7 @@
         <li class="tw-mt-[63px] sm:tw-mt-0 -tw-mx-2 tw-overflow-hidden sm:tw-bg-neutral-900/50">
             <div id="logo" class="tw-py-2 tw-px-2 tw-h-[63px] tw-flex tw-items-center">
                 <?php echo get_company_logo(get_admin_uri() . '/', '!tw-mt-0')?>
-              <img src="<?php echo base_url(); ?>assets/images/Codixlylogo.png" alt="Codixly Logo">
+              <img src="<?php echo base_url(); ?>assets/images/Codixlylogo.png" class="w-50 h-50" alt="Codixly Logo">
 
             </div>
         </li>
